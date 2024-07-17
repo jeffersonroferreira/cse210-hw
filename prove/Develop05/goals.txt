@@ -1,0 +1,4 @@
+score#2000
+Simple#Temple#Attendin the temple#200#True
+[ ]Eternal Goal, Scriptures, Study the scriptures, worth 100 points times completed: 4
+CheckList#weakup#Wakeup early#400#True#3#3
